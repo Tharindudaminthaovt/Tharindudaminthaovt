@@ -115,8 +115,9 @@ I started my coding journey during my Advance Level studies, and since then, I'v
 
 ---
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Tharindudaminthaovt&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tharindudaminthaovt&color=blue)
 </div>
+
 
 ---
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
