@@ -74,9 +74,7 @@ I started my coding journey during my undergraduate studies, and since then, I'v
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://twitter.com/TharinduHandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/tharindudamintha/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tharindu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/tharindu-damintha-OV/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
