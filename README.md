@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Damintha</h1>
-<h3 align="center">Final-Year Computer Science Undergraduate</h3>
+<h3>Final-Year Computer Science Undergraduate</h3>
 
-<p align="center">
+<p>
 I started my coding journey during my undergraduate studies, and since then, I've been passionate about learning, challenging myself, and working on impactful projects.  
 </p>
 
