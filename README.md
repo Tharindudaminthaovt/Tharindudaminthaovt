@@ -1,4 +1,4 @@
-# 💻 Tharindu Damintha
+# 💻 Tharindu Damintha 💻
 
 ## 👨‍💻 About Me
 - 🎓 **Final-Year Computer Science Undergraduate**  
@@ -41,9 +41,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 🐦 [**Twitter**](https://twitter.com/TharinduHandle)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/tharindudamintha/)  
-- 🌟 [**Portfolio**](https://tharindu-portfolio.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/tharindu-damintha-OV/)  
+- 🌟 [**Portfolio**](https://tharindudaminthaovt.github.io/)  
 
 ---
 
