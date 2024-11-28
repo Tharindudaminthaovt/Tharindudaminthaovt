@@ -63,10 +63,10 @@ I started my coding journey during my Advance Level studies, and since then, I'v
   <br><br>
   
   <strong>Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" height="40" alt="Anaconda">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40" alt="Pandas">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40" alt="scikit-learn">
   <br><br>
   
   <strong>Tools:</strong><br>
