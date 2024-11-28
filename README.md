@@ -114,5 +114,8 @@ I started my coding journey during my Advance Level studies, and since then, I'v
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Tharindudaminthaovt&color=blue)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tharindudaminthaovt&layout=compact)
 
+---
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
