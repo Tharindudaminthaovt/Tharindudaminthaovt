@@ -10,7 +10,7 @@ I started my coding journey during my Advance Level studies, and since then, I'v
 ### 🌍 About Me
 <p>
 📍 Based in Colombo, Sri Lanka <br>
-✉️ Reach me at: <strong>ovtdamintha@gmail.com</strong> <br>
+✉️ Reach me at: <strong>mailto:ovtdamintha@gmail.com</strong> <br>
 😄 Pronouns: He/ Him <br>
 🧠 Currently learning: <strong>Docker</strong> <br>
 ❓ Ask me about: <strong>Web Development, React, Programming Concepts</strong> <br>
