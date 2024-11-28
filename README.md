@@ -114,10 +114,10 @@ I started my coding journey during my Advance Level studies, and since then, I'v
 </p>
 
 ---
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tharindudaminthaovt&color=blue)
-</div>
 
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tharindudaminthaovt&color=blue" alt="Profile Views">
+</div>
 
 ---
 <h3 align="center">Thank you for visiting my profile! 🚀</h3>
