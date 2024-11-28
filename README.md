@@ -8,20 +8,20 @@ I started my coding journey during my undergraduate studies, and since then, I'v
 ---
 
 ### 🌍 About Me
-<p align="center">
+<p>
 📍 Based in Colombo, Sri Lanka <br>
-✉️ Reach me at: <strong>tharindudamintha1999@gmail.com</strong> <br>
+✉️ Reach me at: <strong>ovtdamintha@gmail.com</strong> <br>
 😄 Pronouns: He/ Him <br>
-🧠 Currently learning: <strong>Validation Libraries (e.g., Yup)</strong> <br>
-❓ Ask me about: <strong>MERN Stack, Payment Integrations (Stripe, PayHere)</strong> <br>
+🧠 Currently learning: <strong>Docker</strong> <br>
+❓ Ask me about: <strong>Web Development, React, Programming Concepts</strong> <br>
 ⚡ Fun Fact: I enjoy exploring Linux and tweaking my setup!  
 </p>
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2>🚀 Tech Stack</h2>
 
-<p align="center">
+<p>
   <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
