@@ -26,7 +26,7 @@ I started my coding journey during my Advance Level studies, and since then, I'v
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" height="40" alt="C">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <br><br>
   
