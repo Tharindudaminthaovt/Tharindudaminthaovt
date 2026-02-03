@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharindu Damintha</h1>
-<h3>Final-Year Computer Science Undergraduate</h3>
-
-<p>
-I started my coding journey during my Advance Level studies, and since then, I've been passionate about learning, challenging myself, and working on impactful projects.  
-</p>
-
----
+<h3>Software Engineer</h3>
 
 ### 🌍 About Me
 <p>
